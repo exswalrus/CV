@@ -72,12 +72,12 @@ a:hover {
     left: 400px;
     position: absolute;
     bottom: 550px;
-    width: 10%;
+    width: 15%;
 }
 
 .mountain {
     margin: auto;
-    width: 70%;
+    width: 65%;
 }
 
 .mid-container {
@@ -153,7 +153,5 @@ a:hover {
     font-size: 0.75rem;
     padding: 20px 0;
 }
-
-
 
 /*id selectors -- over-rules class selectors, must be unique, use for single items*/
